@@ -1,8 +1,5 @@
 # Credit Card Fraud Detection using Machine Learning
 
-![image](https://github.com/Ankitsingh45/Credit-Card-Fraud-Detection/assets/112232080/0e61e09f-5a85-4212-b4ba-5c60362ec009)
-
-
 In this project, titled "Credit Card Fraud Detection using Machine Learning," I have undertaken the task of developing a robust system to identify fraudulent credit card transactions. By leveraging various machine learning algorithms, I aim to detect fraudulent activities and minimize potential financial losses for credit card companies and their customers. The models implemented for this purpose include Logistic Regression, Support Vector Machine, Naive Bayes, K-Nearest Neighbors, Random Forest, AdaBoost, and XGBoost.
 
 ### Data Definition
